@@ -1,0 +1,12 @@
+/*/
+.vscode/
+__MAC*
+*DS_Store
+*Zone.Identifier
+*bak
+
+!/docopt_c/
+!/scripts/
+!/src/
+!/img/
+!/db.v4/
