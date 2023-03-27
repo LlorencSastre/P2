@@ -52,12 +52,12 @@ Features compute_features(const float *x, int N) {
  * TODO: Init the values of vad_data
  */
 
-VAD_DATA * vad_open(float rate) {
+VAD_DATA * vad_open(float rate, float alpha0) {
   VAD_DATA *vad_data = malloc(sizeof(VAD_DATA));
   vad_data->state = ST_INIT;
   vad_data->sampling_rate = rate;
   vad_data->frame_length = rate * FRAME_TIME * 1e-3;
-  vad_data->alpha0 = 10;
+  vad_data->alpha0 = alpha0;
   return vad_data;
 }
 
