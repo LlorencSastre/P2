@@ -159,8 +159,9 @@ Ejercicios
 
 - Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección
   automática conseguida para el fichero grabado al efecto. 
-
-![Aqui es pot veure que hi ha una gran diferència entre els dos etiquetats, la deteccio automàtica aconsegueix distingit veu i silenci amb molta mes precissió](https://github.com/LlorencSastre/P2/blob/Matamala_Sastre/Foto2.png)
+  
+Aqui es pot veure que hi ha una gran diferència entre els dos etiquetats, la deteccio automàtica aconsegueix distingit veu i silenci amb molta mes precissió
+![](https://github.com/LlorencSastre/P2/blob/Matamala_Sastre/Foto2.png)
 
 
 - Explique, si existen. las discrepancias entre el etiquetado manual y la detección automática.
