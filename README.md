@@ -142,10 +142,15 @@ Ejercicios
 	* Incremento del nivel potencia en dB, respecto al nivel correspondiente al silencio inicial, para
 	  estar seguros de que un segmento de señal se corresponde con voz.
 
+	Veiem que el nivell de potencia durant els silencis son aproximadament de 30 dB, en canvi, quan s'està parlant, el nivell de potència puja fins a un 50 db o més. 
+
 	* Duración mínima razonable de los segmentos de voz y silencio.
+
+	Si un tros de silenci es menor a 0.2s, es pot deure a pauses del parlant i per tant no cal identificar-los com a silencis. Per la duració de la veu, si un tros que hem indentifica com a veu, es menor a 0.2s pot ser causat per un altre soroll i per tant no hauria de ser considerat veu.
 
 	* ¿Es capaz de sacar alguna conclusión a partir de la evolución de la tasa de cruces por cero?
 
+	Si, ja que ens permet indentificar lletres sordes que tenen baixa potència i alt ZCR. Per tant si veiessim algun tros que s'ha considerat silenci curt i amb gran nombre de ZCR es podria dir que es tracta d'un soroll o lletra sorda i per tant hauria de ser considerat veu.
 
 ### Desarrollo del detector de actividad vocal
 
@@ -154,6 +159,8 @@ Ejercicios
 
 - Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección
   automática conseguida para el fichero grabado al efecto. 
+
+
 
 - Explique, si existen. las discrepancias entre el etiquetado manual y la detección automática.
 
