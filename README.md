@@ -136,6 +136,9 @@ Ejercicios
   continuación, una captura de `wavesurfer` en la que se vea con claridad la señal temporal, el contorno de
   potencia y la tasa de cruces por cero, junto con el etiquetado manual de los segmentos.
 
+![](https://github.com/LlorencSastre/P2/blob/Matamala_Sastre/Foto1.png)
+
+Som conscients que no està la gràfica de ZCR, però no hem aconseguit mostrejar-la amb el wavesurfer.
 
 - A la vista de la gráfica, indique qué valores considera adecuados para las magnitudes siguientes:
 
