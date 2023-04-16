@@ -172,6 +172,7 @@ Aqui es pot veure que hi ha una gran diferència entre els dos etiquetats, la de
   el resumen).
 
 ![](https://github.com/LlorencSastre/P2/blob/Matamala_Sastre/Foto3.png)
+Esta prueba sa he realizado con un alpha=5.1.
 
 
 ### Trabajos de ampliación
@@ -186,6 +187,8 @@ Aqui es pot veure que hi ha una gran diferència entre els dos etiquetats, la de
 
 - Si ha usado `docopt_c` para realizar la gestión de las opciones y argumentos del programa `vad`, inserte
   una captura de pantalla en la que se vea el mensaje de ayuda del programa.
+
+![](https://github.com/LlorencSastre/P2/blob/Matamala_Sastre/Foto4.png)
 
 
 ### Contribuciones adicionales y/o comentarios acerca de la práctica
