@@ -172,7 +172,8 @@ Aqui es pot veure que hi ha una gran diferència entre els dos etiquetats, la de
   el resumen).
 
 ![](https://github.com/LlorencSastre/P2/blob/Matamala_Sastre/Foto3.png)
-Esta prueba sa he realizado con un alpha=5.1.
+
+Aquesta realirzació s'ha fet amb un alpha=5.1
 
 
 ### Trabajos de ampliación
